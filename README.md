@@ -1,5 +1,5 @@
-# Xioami Cloud - Gallery Downloader
-Download Gallery items (Images/Videos) from Xioami Cloud. The concept should be replicatable for Recordings as well.
+# Xiaomi Cloud - Gallery Downloader
+Download Gallery items (Images/Videos) from Xiaomi Cloud. The concept should be replicatable for Recordings as well.
 
 # Supported Browsers
 Tested to work on Chrome browser, expected to work with all modern browsers,including Chrome-based web browsers (e.g: Microsoft Edge) and Firefox.
@@ -14,6 +14,6 @@ Tested to work on Chrome browser, expected to work with all modern browsers,incl
 7. Click and open a photo to download.
 *Note: Only the pictures after the picture that you select ( > next picture action) will be downloaded, so, click on the first picture in the top left corner to download all pictures in the page.*
 8. On the Chrome tab with the Xiaomi Cloud Gallery: Right-click > Inspect > Console.
-9. Copy and Paste the code from [here](https://raw.githubusercontent.com/haneef95/XioamiCloudDownloader/master/miGalleryDownloader.js).
+9. Copy and Paste the code from [here](https://raw.githubusercontent.com/haneef95/XiaomiCloudDownloader/master/miGalleryDownloader.js).
 10. Chrome will block one of the downloads and ask 'Download multiple files?' > Click 'Allow'.
 11. This should automatically download each item, click next and loop. Go for a coffee! It'll take a while!
