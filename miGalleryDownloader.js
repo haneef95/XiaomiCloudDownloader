@@ -14,7 +14,7 @@ async function keepDownloadingImgs() {
     console.log("Attempting download...");
     document.querySelector('.download-c_kuy').click();
     await sleep(randomInt(1100,1900));
-    console.log("Attempting next image...");
+    console.log("Attempting next gallery item...");
     document.querySelector('.ico-next-4KyWW').click()
   }
 }
