@@ -6,7 +6,7 @@ Tested to work on Chrome browser, expected to work with all modern browsers,incl
 
 # Steps
 1. Open Microsoft Edge or any of the supported browsers above.
-2. Disable 'Ask where to save each file before downloading' in [Chrome Download Settings](chrome://settings/downloads) Open chrome://settings/downloads on the browser
+2. Disable 'Ask where to save each file before downloading' in [Chrome Download Settings](chrome://settings/downloads) - Open chrome://settings/downloads on the browser
 3. *[Optional] - [Choose a download directory in Chrome](chrome://settings/downloads)*
 4.  Login to [Xiaomi Cloud](https://i.mi.com/)
 5. Open the Gallery in Xiaomi Cloud
