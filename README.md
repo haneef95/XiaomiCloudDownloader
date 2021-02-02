@@ -1,5 +1,5 @@
-# Xiaomi Cloud - Gallery Downloader
-Download Gallery items (Images/Videos) from Xiaomi Cloud. The concept should be replicatable for Recordings as well.
+# Xiaomi Cloud - Mass/Bulk Gallery Downloader
+Download Gallery items (Images/Videos) from Xiaomi Cloud in Bulk/enmasse. The concept should be replicatable for Recordings as well.
 
 # Supported Browsers
 Tested to work on Chrome browser, expected to work with all modern browsers,including Chrome-based web browsers (e.g: Microsoft Edge) and Firefox.
